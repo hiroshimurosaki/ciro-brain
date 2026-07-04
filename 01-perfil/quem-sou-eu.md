@@ -36,11 +36,11 @@ ultima-atualizacao: 2026-07-03
 - **Saúde mental**: relatou medo de estar depressivo — padrões consistentes com isso (baixa energia, isolamento produtivo, higiene em colapso). Não quer focar nisso agora, mas deve ser monitorado.
 
 ## Finanças
-- **Renda atual**: R$1.200 (estágio) + R$1.200 (bolsa Petrobras) + R$700 (pensão do pai) + R$1.600 (seguro-desemprego, iniciado maio/2026, válido por 6 meses → expira ~out/2026) = **R$4.700/mês**.
+- **Renda atual**: R$1.200 (estágio) + R$1.200 (bolsa Petrobras) + R$700 (pensão do pai) + R$1.600 (seguro-desemprego) = **R$4.700/mês**. Confirmado por requerimento oficial: dispensa em 06/02/2026 da Pastelaria Gimenes Ltda (negócio da mãe), onde trabalhou de 01/01/2021 a 06/02/2026 (~5 anos), último salário R$1.621,00. Benefício confirmado pelo Fernando (2026-07-04): **6 parcelas de R$1.600**, primeira em ~maio/2026 (mês exato não 100% confirmado por ele), última em ~out/2026. Depois disso a renda cai para ~R$3.100/mês.
 - **Renda após seguro**: ~R$3.100/mês.
 - **Despesas fixas**: aluguel R$1.000 (pago pela mãe). Uber ~R$5-12/dia (ida+volta ao trabalho).
 - **Gastos problemáticos**: delivery frequente (Burger King, lanches).
-- **Contexto familiar**: mãe tem lanchonete em Itapetininga. Fernando trabalhou lá antes do estágio — foi demitido para poder estagiar, daí o seguro-desemprego.
+- **Contexto familiar**: mãe tem a Pastelaria Gimenes Ltda em Itapetininga. Fernando trabalhou lá de 2021 a fev/2026 — foi demitido para poder estagiar, daí o seguro-desemprego.
 
 ## Personalidade e valores
 - **Pontos fortes**: autodidatismo marcante; raciocínio lógico apurado; empatia e leitura de pessoas; liderança natural (assumiu papel de líder no estágio sem cargo formal); visão sistêmica (entende cascata de causas e efeitos no próprio comportamento).
@@ -54,3 +54,5 @@ ultima-atualizacao: 2026-07-03
 - Tem 4 projetos pessoais (não detalhados no onboarding — aprofundar depois).
 - Sente falta da família em Itapetininga; trabalho presencial é um dos principais geradores de insatisfação com o estágio atual.
 - Considera comprar microondas no final de semana de 05-06/07/2026 — impacto positivo esperado na rotina alimentar.
+- Conquista: Menção Honrosa na 1ª Fase do ICPC South America Brazil 2025 (13/09/2025), representando a Unesp Bauru no time com Pedro Sorge e Igor dos Reis Gomes (coach: Roberta Spolon).
+- Termo de Compromisso do Aluno de Iniciação Científica assinado em Bauru, 12/02/2026, formalizando entrada no Programa de IC da Unesp.
