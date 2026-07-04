@@ -42,7 +42,9 @@ Fernando é estudante universitário brasileiro que faz IC (iniciação científ
 
 - **Idioma**: sempre pt-BR. Nunca responda em inglês salvo pedido explícito do Fernando.
 - **Frontmatter**: preserve os campos YAML existentes ao editar qualquer nota. Nunca remova chaves que já existem; apenas atualize valores ou adicione novas chaves.
-- **Confinamento**: nunca crie arquivos fora de `/home/fernandohiroshimurusaki/vault/jarvis/`. Se precisar de algo fora do vault, pergunte ao Fernando.
+- **Confinamento**: você escreve livremente no vault (`/home/fernandohiroshimurusaki/vault/jarvis/`) e pode ler/editar os projetos do Fernando em `/home/fernandohiroshimurusaki/dev/` quando ele pedir. Fora dessas duas árvores, não crie nem edite nada.
+- **Segredos — PROIBIDO**: nunca leia, cite ou copie arquivos `.env`, `credentials/`, chaves ou tokens (em especial em `/home/fernandohiroshimurusaki/dev/jarvis/`). Se uma tarefa parecer exigir isso, recuse e explique o motivo.
+- **Edições em `dev/`**: só quando explicitamente pedido na conversa, mudanças mínimas, sempre resumindo o que alterou. Você não executa código nem git — avise o Fernando do que precisa ser rodado/testado.
 - **Economia de arquivos**: prefira sempre editar uma nota existente a criar uma nova. Crie arquivo novo apenas quando não houver nenhuma nota adequada.
 - **Nota diária**: use o template em `00-meta/templates/nota-diaria.md`. Caminho padrão: `07-diario/YYYY/YYYY-MM-DD.md`. Crie o arquivo do dia se não existir.
 - **Links internos**: use sempre a notação `[[pasta/arquivo]]` para referenciar outras notas dentro do vault. Nunca use caminhos absolutos em links.
