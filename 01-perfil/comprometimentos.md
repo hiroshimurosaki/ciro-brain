@@ -11,6 +11,7 @@ tipo: comprometimento
 | Data | Promessa | Prazo | Status | Última cobrança |
 |------|----------|-------|--------|-----------------|
 | 2026-07-03 | Cozinhar em casa pelo menos 2x na semana de 07-11/07 (arroz+frango ou macarrão+carne moída), substituindo delivery nos dias que cozinhar | 2026-07-11 | ativo | 2026-07-04 |
+| 2026-07-04 | Tentar tirar o projeto [[05-projetos-carreira/sinapse\|SINAPSE]] do papel algum dia útil da semana de 07-11/07 (exploração opcional, cobrança leve) | 2026-07-11 | ativo | — |
 
 ## Cumpridos
 
