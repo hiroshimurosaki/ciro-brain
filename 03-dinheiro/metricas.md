@@ -1,7 +1,7 @@
 ---
 tipo: metrica
 area: dinheiro
-ultima-atualizacao: 2026-07-04
+ultima-atualizacao: 2026-07-05
 renda-mensal: 4700 (atual, com seguro-desemprego)
 renda-pos-seguro: 3100 (estágio + bolsa + pensão, sem seguro)
 seguro-desemprego-empregador-anterior: Pastelaria Gimenes Ltda (negócio da mãe)
@@ -14,6 +14,7 @@ seguro-desemprego-fim-estimado: 2026-10
 aluguel: 1000 (pago pela mãe)
 transporte: 50-60 (semanal, Uber)
 gastos-problematicos: delivery frequente (Burger King, lanches)
+gastos-recentes: microondas R$500 (2026-07-05), iFood R$35 (2026-07-05)
 poupanca: null
 meta-poupanca: null
 ---

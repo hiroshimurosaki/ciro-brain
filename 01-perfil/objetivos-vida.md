@@ -11,7 +11,7 @@ ultima-atualizacao: 2026-07-03
 - **Visão**: aprender continuamente, dominar o que estuda, pensar melhor.
 - **Status (jul/2026)**: melhor das cinco áreas. Aprendendo muito sobre AI/agentes, reconhecido pelos pares. Risco: Dunning-Kruger e aprofundamento insuficiente em fundamentos.
 - **Metas atuais**:
-  - Melhorar em programação competitiva (grupo Vibe Coders, ProAtivo/Unesp)
+  - Melhorar em programação competitiva (grupo Vibe Coders, Protiva/Unesp)
   - Aprender mais sobre fundamentos de engenharia de software além de AI
   - Definir trilha de carreira: backend/fullstack vs dados
 
